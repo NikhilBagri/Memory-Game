@@ -1,4 +1,4 @@
-#Memory Card Game - Emoji Animal Edition
+##Memory Card Game - Emoji Animal Edition
 
 The Memory Card Game - Emoji Animal Edition is a web-based game created using ReactJS, HTML, and CSS. This game challenges players to improve their memory, concentration, and cognitive skills while providing an entertaining and visually appealing gaming experience.
 
