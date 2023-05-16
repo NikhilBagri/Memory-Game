@@ -1,8 +1,8 @@
-##Memory Card Game - Emoji Animal Edition
+# Memory Card Game - Emoji Animal Edition
 
 The Memory Card Game - Emoji Animal Edition is a web-based game created using ReactJS, HTML, and CSS. This game challenges players to improve their memory, concentration, and cognitive skills while providing an entertaining and visually appealing gaming experience.
 
-##Features
+## Features
 
 Memory Challenge: Players are presented with a grid of face-down cards, each featuring a unique emoji representing different animals.
 Card Matching: Players can flip over two cards at a time by clicking on them, aiming to find pairs of matching animal emojis.
@@ -12,15 +12,15 @@ Visual Appeal: The game incorporates visually appealing animal emojis, making th
 Cognitive Development: By challenging memory and concentration, the game encourages players to improve their cognitive skills while having fun.
 Responsive Design: The game is designed to be responsive, ensuring compatibility and an optimal experience across various devices and screen sizes.
 
-##Objective
+## Objective
 
 The objective of the Memory Card Game - Emoji Animal Edition is to match all the pairs of animal emojis within the grid. The game aims to stimulate memory, concentration, and cognitive abilities while providing an enjoyable gaming experience.
 
-##Usage
+## Usage
 
 To play the game, simply access the live demo hosted on GitHub Pages. The game should automatically start, and you can click on any two cards to flip them over and find matches.
 
-##Usage
+## Usage
 To play the game, simply access the live demo hosted on https://memory-game-one-gamma.vercel.app/. The game should automatically start, and you can click on any two cards to flip them over and find matches.
 
 Alternatively, you can clone this repository to your local machine and run the game locally by following these steps:
